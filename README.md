@@ -41,7 +41,7 @@ Download your favorite YouTube videos as **MP3** or **MP4 (360p up to 1080p+)** 
 ## ⚙️ Installation (1 Command Setup)
 
 ```bash
-git clone https://github.com/yourusername/Almaras-YT-Downloader.git
+git clone https://github.com/zero5yt/YouTube-Tools.git
 cd Almaras-YT-Downloader
 bash install.sh
 ```
@@ -96,7 +96,7 @@ git pull
 
 **Roderick V. Almaras**
 
-* 🌐 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+* 🌐 GitHub: [https://www.facebook.com/share/17YVJYc75R/](https://www.facebook.com/share/17YVJYc75R/)
 * 📧 Email: [roderickalmara05@gmail.com](mailto: roderickalmara05@gmail.com)
 
 ---
@@ -105,7 +105,7 @@ git pull
 
 If you like this project:
 
-👉follow my fbpage streamix ph 
+👉follow my fbpage streamix ph : GitHub: [https://github.com/zero5yt](https://github.com/zero5yt)
 👉 Star this repo
 👉 Share with your friends
 👉 Follow for more tools
